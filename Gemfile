@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 group :jekyll_plugins do
 gem "jekyll", ">= 3.6.3"
-    #gem 'wdm', '>= 0.1.0'
+    gem 'wdm', '>= 0.1.0'
     #gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
