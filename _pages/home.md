@@ -1,13 +1,10 @@
 ---
-title: "Allan Lab - Home"
+title: "SARB Macro Lab at Tuks - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "SARB Macro Lab at the University of Pretoria"
 sitemap: false
 permalink: /
 ---
-
-**News: Our group will move to LMU Munich!** During the next two years, we will build up a group at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -53,19 +50,10 @@ More details to follow.
   </a>
 </div>
 
+The South African Reserve Bank at University of Pretoria was instituted in 2017 with the objective of advancing research in monetary economics. We work closely with the Economic Department of the South African Reserve Bank on topics relevant to South African economy while keeping in touch with recent developments at the international scene. Specifically, we focus in the areas of macroeconomic modelling, forecasting, fiscal and monetary policy coordination, credit market, central banking communication and labour market macro modelling.
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+Through supervision of master and Ph.D students  and the organization of annual workshops, we hope to spark interest in research on the aforementioned topics and beyond. This allows us to reach out to a broader audience for a fruitful discussion among peers and contribution to debates on relevant topics.
 
-
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
-
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
