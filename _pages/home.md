@@ -1,8 +1,8 @@
 ---
-title: "SARB Macro Lab at Tuks - Home"
+title: "SARB Macro Lab at Tuks"
 layout: homelay
 excerpt: "SARB Macro Lab at the University of Pretoria"
-sitemap: false
+sitemap: #false
 permalink: /
 ---
 
@@ -49,17 +49,16 @@ permalink: /
   </a>
 </div>
 
-The South African Reserve Bank at University of Pretoria was instituted in 2017 with the objective of advancing research in monetary economics. We work closely with the Economic Department of the South African Reserve Bank on topics relevant to South African economy while keeping in touch with recent developments at the international scene. Specifically, we focus in the areas of macroeconomic modelling, forecasting, fiscal and monetary policy coordination, credit market, central banking communication and labour market macro modelling.
+<p align="justify">The South African Reserve Bank Chair at the University of Pretoria was instituted in 2017 with the objective of advancing research in monetary economics. We work closely with the Economic Department of the South African Reserve Bank on topics relevant to the South African economy while keeping in touch with recent developments at the international scene. Specifically, we focus in the areas of macroeconomic modelling, forecasting, fiscal and monetary policy coordination, credit market, central banking communication and labour market macro modelling.</p>
 
-Through supervision of master and Ph.D students  and the organization of annual workshops, we hope to spark interest in research on the aforementioned topics and beyond. This allows us to reach out to a broader audience for a fruitful discussion among peers and contribution to debates on relevant topics.
-
-
+<p align="justify">Through supervision of master and Ph.D students  and the organization of annual workshops, we hope to spark interest in research on the aforementioned topics and beyond. This allows us to reach out to a broader audience for a fruitful discussion among peers and contribution to debates on relevant topics.</p>
 
 
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+
+<center>
+<figure class="second">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sarb.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tuks.png" style="width: 250px">
 </figure>
+</center>
