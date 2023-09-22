@@ -1,0 +1,58 @@
+- title: 
+  image: qpm.png
+  link:
+    url: "/forecast.html/"
+    display: "Macromodelling and forecast"
+  description: 
+  highlight: 1
+  news2: 
+
+- title: 
+  image: res3.png
+  description: 
+  link:
+    url: "/fiscal.html/"
+    display: "Fiscal policy"
+  highlight: 1
+
+- title: 
+  image: res4.png
+  description: 
+  authors: 
+  link:
+    url: "/labour.html/"
+    display: "Labour market"
+  highlight: 1
+
+- title: 
+  image: repo.jpg
+  description:
+  authors: 
+  link:
+    url: "/cbcom.html/"
+    display: "Central bank communication"
+  highlight: 1
+  news1:  
+  news2: 
+
+
+- title: 
+  image: TBG_SL.png
+  description: 
+  authors:
+  link:
+    url: "/macropru.html"
+    display:  "Macroprudential policy"
+  highlight: 1
+  news2: 
+  
+- title: 
+  image: TBG_SL.png
+  description: 
+  authors:
+  link:
+    url: "/macropru.html"
+    display:  "Other Publications"
+  highlight: 1
+  news2: 
+

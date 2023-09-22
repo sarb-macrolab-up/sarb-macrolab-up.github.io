@@ -38,7 +38,7 @@
   number_educ: 4
   education1: Macro modelling of the labour market, monetary economics
   education2: Ph.D (Economics), University of Pretoria
-  education3: Thesis - Structural Unemployment, Labour Market Dynamics and the Transmission of Monetary
+  education3: Thesis - Structural unemployment, labour market dynamics and the transmission of monetary policy
   education4: MCom (Economics), University of Pretoria
   education5: <a href="https://dadamvince.github.io/">website</a>
 
@@ -50,8 +50,11 @@
   education1: Central bank communications, machine learning, data science
 
 - name: Keaoleboga Mncube
-  photo: rock.jpg
+  photo: kea.jpg
   info: Research fellow
   email: keaolebogamncube@gmail.com
-  number_educ: 1
+  number_educ: 4
   education1: Credit markets, macroprudential policy
+  education2: Ph.D (Economics), University of Pretoria
+  education3: Thesis - Essays on the role of banking and finance in the South African economy
+  education4: MCom (Economics), University of Pretoria

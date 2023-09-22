@@ -1,7 +1,7 @@
 ---
-title: "SARB Macro Lab at Tuks - Research"
+title: "SARB Macro Lab at Tuks - Contact us"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "SARB Macro Lab at Tuks -- Contact us"
 sitemap: false
 permalink: /research/
 ---
@@ -9,7 +9,7 @@ permalink: /research/
 # Contact Us
 
 
-<b>Physical Address</b>
+### Physical Address
 
 Tukkiewerf
 
@@ -23,7 +23,7 @@ Hatfield
 
 
 
-<b>Department of Economics</b>
+### Department of Economics
 
 Private bag X20
 
@@ -82,10 +82,6 @@ input[type=submit]:hover {
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <form action="index.php" enctype="multipart/form-data">
-    Select a file to upload: <input type="file" name="selectedfile">
-    </form>
 
     <input type="submit" value="Submit">
   </form>
